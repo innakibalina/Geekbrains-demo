@@ -67,3 +67,5 @@ This is demo repository for geekbrains webinar
 
 А вот и тефтелька!!! ![Teftelka](68827623.jpg)
 
+привет из Северска
+
